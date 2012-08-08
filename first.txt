@@ -1,1 +1,2 @@
 some text to file
+something new
