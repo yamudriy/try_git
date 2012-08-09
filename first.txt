@@ -1,2 +1,3 @@
 some text to file
 something new
+Hello a new day!
